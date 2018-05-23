@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+
+# Dependency directory
+node_modules
+
+# dist
+dist
+
+# Other
+.DS_Store
+.env
+
+# My experimentation file
+scratchings.js
