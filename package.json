@@ -1,7 +1,7 @@
 {
   "name": "codesandboxer",
   "main": "./lib/my-package",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Deploy a file and dependent modules to codesandbox from atom",
   "keywords": [],
   "activationCommands": {
